@@ -11,7 +11,7 @@ CSS Flexbox
 
 ## Links
 
-- [Live link](https://theresahb.github.io/clipboard-landing-page/)
+- [Live link](https://theresahb.github.io/blogr-landing-page/)
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
